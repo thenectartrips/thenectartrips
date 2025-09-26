@@ -1,4 +1,6 @@
 # Hi there 👋, I'm Piyush Mani Tripathi  🙂
+![Profile Views](https://komarev.com/ghpvc/?username=thenectartrips&color=blue)
+
 
 🎓 B.Tech CSE Student @ UPES Dehradun (AI & ML Specialization)  
 💡 Aspiring AI/ML Developer | Open-Source Enthusiast | Lifelong Learner  
