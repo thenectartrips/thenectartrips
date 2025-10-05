@@ -42,7 +42,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/piyush-mani-tripathi">
+  <a href="https://linkedin.com/Piyush-Mani-Tripathi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/thenectartrips">
