@@ -28,8 +28,9 @@
 ---
 
 ## 📂 Featured Projects
-- 🔢 *[C Programs Collection](#)* – beginner to advanced problem-solving  
+- 🔢 *[C Programs Collection](#)* – Beginner to advanced problem-solving  
 - 🌍 *[Open Source Contributions](#)* – Hacktoberfest & community projects (about to start)
+- 🎯 *[Emotion Quote Generator Project](#)* -  Minor Project emotion-quote-generator-project
 
 ---
 
