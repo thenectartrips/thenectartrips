@@ -30,7 +30,7 @@
 ## 📂 Featured Projects
 - 🔢 *[C Programs Collection](#)* – Beginner to advanced problem-solving  
 - 🌍 *[Open Source Contributions](#)* – Hacktoberfest & community projects (about to start)
-- 🎯 *[Mood Based Quote Generator Project](#)* -  Minor Project mood-quote-generator-project
+- 🎯 *[Mood Based Quote Generator Project](#)* -  Minor mood-quote-generator- C project
 
 ---
 
