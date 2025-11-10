@@ -29,13 +29,13 @@
 
 ## 📂 Featured Projects
 - 🔢 *[C Programs Collection](#)* – Beginner to advanced problem-solving  
-- 🌍 *[Open Source Contributions](#)* – Hacktoberfest & community projects (about to start)
+- 🌍 *[Open Source Contributions](#)* – Community projects (about to start)
 - 🎯 *[Mood Based Quote Generator Project](#)* -  Minor mood-quote-generator- C project
 
 ---
 
 ## 🌱 Current Focus
-- Contributing to *Hacktoberfest 2025* 🎉  
+- Onto My First Minor Project 🎉  
 - Mastering *DSA & Competitive Programming*  
 - Exploring *AI/ML applications*  
 
