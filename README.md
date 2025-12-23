@@ -26,7 +26,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## 🛠 Technologies I Use
+## 🛠 Technologies In Use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,linux,git,vscode&theme=dark" />
