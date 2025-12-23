@@ -92,3 +92,8 @@ Passion for AI, ML & systems
 📞 Contact
 
 📧 Gmail: prashambik2004@gmail.com
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&text=Let's%20Build%20Something%20Great!&fontSize=28" />
+</p>
+
