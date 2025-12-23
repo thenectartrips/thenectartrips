@@ -55,5 +55,9 @@
 </p>
 
 ---
+## 📊 GitHub 3D Contribution Graph
 
+![3D Contribution Graph](https://github.com/thenectartrips/thenectartrips/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+---
 ⭐ From [thenectartrips](https://github.com/thenectartrips)
