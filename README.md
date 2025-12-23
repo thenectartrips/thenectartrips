@@ -92,5 +92,3 @@ Passion for AI, ML & systems
 📞 Contact
 
 📧 Gmail: prashambik2004@gmail.com
-
- src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> </p> <!-- Footer --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:000000&height=140&section=footer&text=Code.%20Learn.%20Repeat.&fontColor=00ff99&fontSize=26" /> </p> ```
