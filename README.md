@@ -60,10 +60,10 @@
 
 ## 📚 Learning Journey
 
-- 🟢 **2024** → Python, C, Git, Linux  
-- 🔵 **2025** → DSA, Machine Learning, Projects  
-- 🟣 **2026** → Advanced AI, Open Source  
-- 🔴 **2027** → Industry-ready Software Engineer 🚀  
+- 🟢 **2025** → Python, C, Git, Linux  
+- 🔵 **2026** → DSA, Machine Learning, Projects  
+- 🟣 **2027** → Advanced AI, Open Source  
+- 🔴 **2028** → Industry-ready Software Engineer 🚀  
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
@@ -81,18 +81,12 @@ AI, Systems, Competitive Programming, Automation
 
 > motto
 "Consistency beats motivation"
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-🏆 GitHub Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=thenectartrips&theme=radical&no-frame=true&row=1&column=6" /> </p> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 💼 Why Hire Me?
 
 Strong CS fundamentals
-
 Fast learner & consistent contributor
-
 Clean, readable, maintainable code
-
 Passion for AI, ML & systems
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
