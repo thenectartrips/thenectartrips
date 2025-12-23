@@ -3,6 +3,10 @@
   <img src="https://github.com/user-attachments/assets/5ca76775-ce1a-4458-a823-d1077aa31268" alt="standard"/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" />
+</p>
+
 # 👋 Hi, I'm Piyush Mani Tripathi!
 
 👨‍💻 AI/ML student | 🐍 Python enthusiast  
