@@ -75,13 +75,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thenectartrips&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 ## 💼 Why Me?
 
