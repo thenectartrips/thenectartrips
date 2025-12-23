@@ -51,3 +51,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Happy+Coding+💻" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:000000&height=120&section=footer&text=Code.%20Learn.%20Repeat.&fontColor=00ff99&fontSize=24" />
+</p>
+
