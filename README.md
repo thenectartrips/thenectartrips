@@ -67,10 +67,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## 📚 Learning Roadmap
+## 🎧 Coding Vibes
 
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Roadmap&align=center&lineCount=3&theme=github_dark&techStack=Python,C++,C,JavaScript,HTML,CSS,Git,Linux,ML" />
+  <img src="https://img.shields.io/badge/Dev%20Mood-Focused%20%26%20Caffeinated☕-00ffd5?style=for-the-badge" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
