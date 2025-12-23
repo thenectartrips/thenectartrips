@@ -1,63 +1,76 @@
-# Hi there 👋, I'm Piyush Mani Tripathi  🙂
-![Profile Views](https://komarev.com/ghpvc/?username=thenectartrips&color=blue)
+<!-- Banner Section -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5ca76775-ce1a-4458-a823-d1077aa31268" alt="standard"/>
+</p>
 
 
-🎓 B.Tech CSE Student @ UPES Dehradun (AI & ML Specialization)  
-💡 Aspiring AI/ML Developer | Open-Source Enthusiast | Lifelong Learner  
-🌱 Currently exploring: *C, DSA, Git/GitHub, Machine Learning*  
+# 👋 Hi, I'm Piyush Mani Tripathi!
+
+👨‍💻 AI/ML student | 🐍 Python enthusiast  
+🔐 Breaking barriers, not systems | 🚀 Building exciting tools.  
+🎯 Currently crafting smarter and faster.
 
 ---
 
-## 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thenectartrips&show_icons=true&theme=radical" alt="stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thenectartrips&theme=radical" alt="streak" height="165"/>
+  <img src="https://komarev.com/ghpvc/?username=thenectartrips&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/thenectartrips?style=for-the-badge&label=Stars" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/thenectartrips?style=for-the-badge&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Joined%20GitHub-2024-blueviolet?style=for-the-badge" alt="Joined GitHub" />
 </p>
 
 ---
 
-## 🛠 Tech Stack
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 🛠 Technologies I Use
 
----
-
-## 📂 Featured Projects
-- 🔢 *[C Programs Collection](#)* – Beginner to advanced problem-solving  
-- 🌍 *[Open Source Contributions](#)* – Community projects (about to start)
-- 🎯 *[Mood Based Quote Generator Project](#)* -  Minor mood-quote-generator- C project
-
----
-
-## 🌱 Current Focus
-- Onto My First Minor Project 🎉  
-- Mastering *DSA & Competitive Programming*  
-- Exploring *AI/ML applications*  
-
----
-
-## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/piyush-mani-tripathi-308929283/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/thenectartrips">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/thenectartrips">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
-## 📊 GitHub 3D Contribution Graph
 
-![3D Contribution Graph](https://github.com/thenectartrips/thenectartrips/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thenectartrips&show_icons=true&theme=radical&hide=issues&count_private=true" alt="Piyush's GitHub Stats" />
+ </p>
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenectartrips&layout=compact&theme=radical&langs_count=6" alt="Most Used Languages" />
+</p>
 
 ---
-⭐ From [thenectartrips](https://github.com/thenectartrips)
+
+## 🟩 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenectartrips/thenectartrips/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thenectartrips/thenectartrips/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thenectartrips/thenectartrips/output/github-contribution-grid-snake.svg" />
+</picture>
+
+
+
+<p align="center">
+  <!-- Custom Contribution Bar (15 squares, latest on the right) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thenectartrips&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+
+## 📞 Contact
+
+- Gmail: **prashambik2004@gmail.com**
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Happy+Coding+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
