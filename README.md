@@ -50,7 +50,7 @@
 ## 🟩 Contribution Activity
 
 <picture>
-![GitHub Snake Dark](https://raw.githubusercontent.com/<USERNAME>/<REPO>/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/<thenectartrips>/<REPO>/output/github-contribution-grid-snake-dark.svg)
 </picture>
 
 
