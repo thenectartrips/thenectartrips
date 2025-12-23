@@ -58,42 +58,52 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## 📚 Learning Journey
+## 🎯 Current Focus
 
-- 🟢 **2025** → Python, C, Git, Linux  
-- 🔵 **2026** → DSA, Machine Learning, Projects  
-- 🟣 **2027** → Advanced AI, Open Source  
-- 🔴 **2028** → Industry-ready Software Engineer 🚀  
+- 🚀 Strengthening **DSA & problem solving**
+- 🤖 Exploring **Machine Learning & AI**
+- 🧩 Building real-world **Python projects**
+- 📈 Improving GitHub consistency
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## 🧠 Terminal About Me
-
-```bash
-> whoami
-Piyush Mani Tripathi
-
-> role
-AI / ML Student | Problem Solver
-
-> interests
-AI, Systems, Competitive Programming, Automation
-
-> motto
-"Consistency beats motivation"
-
-💼 Why Hire Me?
-
-Strong CS fundamentals
-Fast learner & consistent contributor
-Clean, readable, maintainable code
-Passion for AI, ML & systems
-
-📞 Contact
-
-📧 Gmail: prashambik2004@gmail.com
+## 📚 Learning Roadmap
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&text=Let's%20Build%20Something%20Great!&fontSize=28" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Roadmap&align=center&lineCount=3&theme=github_dark&techStack=Python,C++,C,JavaScript,HTML,CSS,Git,Linux,ML" />
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thenectartrips&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+## 💼 Why Me?
+
+- Strong CS fundamentals  
+- Consistent and disciplined learner  
+- Clean, readable code  
+- Passionate about AI & systems  
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+## 📞 Contact
+
+- 📧 Gmail: **prashambik2004@gmail.com**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+<!-- Live Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:000000&height=140&section=footer&text=Code.%20Learn.%20Repeat.&fontColor=00ff99&fontSize=26" />
+</p>
