@@ -3,7 +3,6 @@
   <img src="https://github.com/user-attachments/assets/5ca76775-ce1a-4458-a823-d1077aa31268" alt="standard"/>
 </p>
 
-
 # 👋 Hi, I'm Piyush Mani Tripathi!
 
 👨‍💻 AI/ML student | 🐍 Python enthusiast  
@@ -13,10 +12,10 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thenectartrips&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/stars/thenectartrips?style=for-the-badge&label=Stars" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/followers/thenectartrips?style=for-the-badge&label=Followers" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Joined%20GitHub-2024-blueviolet?style=for-the-badge" alt="Joined GitHub" />
+  <img src="https://komarev.com/ghpvc/?username=thenectartrips&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/thenectartrips?style=for-the-badge&label=Stars" />
+  <img src="https://img.shields.io/github/followers/thenectartrips?style=for-the-badge&label=Followers" />
+  <img src="https://img.shields.io/badge/Joined%20GitHub-2024-blueviolet?style=for-the-badge" />
 </p>
 
 ---
@@ -39,29 +38,30 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thenectartrips&show_icons=true&theme=radical&hide=issues&count_private=true" alt="Piyush's GitHub Stats" />
- </p>
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenectartrips&layout=compact&theme=radical&langs_count=6" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thenectartrips&show_icons=true&theme=radical&hide=issues&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenectartrips&layout=compact&theme=radical&langs_count=6" />
 </p>
 
 ---
 
 ## 🟩 Contribution Activity
 
-<picture>
-![GitHub Snake Dark](https://raw.githubusercontent.com/<thenectartrips>/<thenectartrips>/output/github-contribution-grid-snake-dark.svg)
-</picture>
-
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenectartrips/thenectartrips/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thenectartrips/thenectartrips/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/thenectartrips/thenectartrips/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 <p align="center">
-  <!-- Custom Contribution Bar (15 squares, latest on the right) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thenectartrips&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thenectartrips&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
-
 
 ## 📞 Contact
 
@@ -70,5 +70,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Happy+Coding+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Happy+Coding+💻" />
 </p>
