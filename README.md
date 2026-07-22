@@ -1,68 +1,104 @@
-<div align="center">
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+</p>
 
-# Piyush Mani Tripathi
+<!-- Animated Name Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=36&pause=1000&color=00FFD1&center=true&vCenter=true&width=750&lines=Piyush+Mani+Tripathi;AI+%7C+ML+Student+%7C+Problem+Solver;Building+One+Commit+at+a+Time" />
+</h1>
 
-`> building systems, preserving code, and finding the signal in the noise.`
+<p align="center">
+  👨‍💻 AI/ML student | 🐍 Python enthusiast <br/>
+  🔐 Breaking barriers, not systems | 🚀 Building exciting tools <br/>
+  🎯 Currently crafting smarter and faster
+</p>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-<table>
-  <tr>
-    <td width="42%" valign="top">
-      <img src="assets/face-binary.png" alt="A binary-character portrait of Piyush Mani Tripathi" width="100%" />
-    </td>
-    <td width="58%" valign="top">
+<!-- Profile Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thenectartrips&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/thenectartrips?style=for-the-badge&label=Stars" />
+  <img src="https://img.shields.io/github/followers/thenectartrips?style=for-the-badge&label=Followers" />
+  <img src="https://img.shields.io/badge/Joined%20GitHub-2024-blueviolet?style=for-the-badge" />
+</p>
 
-```text
-$ whoami
-username   : thenectartrips
-name       : Piyush Mani Tripathi
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-$ system --info
-os         : Windows 11 · Linux · Android 17
-ide        : VS Code 1.129 · Python 3.12.10
+## 🛠 Technologies In Use
 
-$ languages --programming
-Python · C · Java · JavaScript
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,linux,git,vscode&theme=dark" />
+</p>
 
-$ languages --computer
-HTML · CSS · JSON · YAML
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-$ languages --human
-Hindi · English
 
-$ interests --list
-software   : Open Source Archaeology · Homelab Building
-hardware   : Overclocking · Undervolting
-```
+## 🌱 Current Focus
+- Onto My Way To Master My Second Programming Language (Python)  
+- Mastering *DSA & Competitive Programming*  
+- Exploring *AI/ML applications*
 
-<a href="mailto:prashambik2004@gmail.com"><img src="https://img.shields.io/badge/Email-prashambik2004%40gmail.com-00b894?style=flat-square&logo=gmail&logoColor=white" alt="Email Piyush" /></a>
-<a href="https://github.com/thenectartrips"><img src="https://img.shields.io/badge/GitHub-thenectartrips-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub thenectartrips" /></a>
-<a href="https://instagram.com/thenectartrips"><img src="https://img.shields.io/badge/Instagram-%40thenectartrips-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram thenectartrips" /></a>
 
-LinkedIn: **Piyush Mani Tripathi**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-  </td>
-  </tr>
-</table>
+## 🧬 Developer Snapshot
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thenectartrips&theme=github_dark" />
+</p>
 
-## GitHub stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-<a href="https://github.com/thenectartrips">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thenectartrips&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=false&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d9a5&amp;text_color=c9d1d9&amp;icon_color=00d9a5" alt="thenectartrips's GitHub statistics" />
-</a>
-<a href="https://github.com/thenectartrips">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenectartrips&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d9a5&amp;text_color=c9d1d9" alt="thenectartrips's most-used GitHub languages" />
-</a>
+## 🎯 Current Focus
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=thenectartrips&amp;hide_border=true&amp;background=0D1117&amp;ring=00D9A5&amp;fire=00D9A5&amp;currStreakLabel=00D9A5&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;stroke=30363D" alt="thenectartrips's GitHub contribution streak" />
+- 🚀 Strengthening **DSA & problem solving**
+- 🤖 Exploring **Machine Learning & AI**
+- 🧩 Building real-world **Python projects**
+- 📈 Improving GitHub consistency
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
----
+## 🎧 Coding Vibes
 
-<div align="center">
-  <sub>Rendered from a field of <code>0</code>, <code>1</code>, and <code>/</code>.</sub>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Dev%20Mood-Focused%20%26%20Caffeinated☕-00ffd5?style=for-the-badge" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+
+## 💼 Why Me?
+
+- Strong CS fundamentals  
+- Consistent and disciplined learner  
+- Clean, readable code  
+- Passionate about AI & systems  
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/piyush-mani-tripathi-308929283/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/thenectartrips">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/thenectartrips">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+<!-- Live Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:000000&height=140&section=footer&text=Code.%20Learn.%20Repeat.&fontColor=00ff99&fontSize=26" />
+</p>
